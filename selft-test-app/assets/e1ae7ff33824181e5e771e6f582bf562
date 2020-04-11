@@ -1,0 +1,15 @@
+{
+  "apollo": {
+    "port": 5000,
+    "uri": "http://192.168.1.101",
+    "credentials": "same-origin"
+  },
+  "languages": {
+    "default": "es",
+    "list": ["en", "fr", "es"]
+  },
+  "security": {
+    "secretKey": ")]3;N*|m:z+R%<Nk}5Bc",
+    "expiresIn": "7d"
+  }
+}
